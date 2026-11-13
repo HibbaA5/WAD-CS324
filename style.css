@@ -1,5 +1,11 @@
 .card a{
     background-color: #c4437b;
     color: white;
-    border-radius: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.card a:hover{
+    text-decoration: underline;
+    background-color: #a12f5c;
 }
